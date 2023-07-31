@@ -12,7 +12,7 @@ SUBTEXT = '''
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* max-width: 600px; */
+    /* max-width: 60 0px; */
   }
 
   .resized-image {
