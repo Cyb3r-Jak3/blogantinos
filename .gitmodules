@@ -3,4 +3,4 @@
 	url = https://github.com/ingwinlu/pelican-toc.git
 [submodule "themes/Papyrus"]
 	path = themes/Papyrus
-	url = https://github.com/KonstantinosTsoumas/Papyrus.git
+	url = https://github.com/KonstantinosTsoumas/blogantinos/tree/main/themes
