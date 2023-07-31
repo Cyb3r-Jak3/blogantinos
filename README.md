@@ -1,2 +1,0 @@
-# blogantinos
-My personal blog
