@@ -1,6 +1,6 @@
 AUTHOR = 'Author'
 SITENAME = 'Konstantinos Tsoumas'
-SITEURL = 'http://127.0.0.1:8000'
+SITEURL = 'blogantinos.com'
 TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
 

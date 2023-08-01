@@ -1,5 +1,5 @@
 [input]
-url_prefix = "http://127.0.0.1:8000"
+url_prefix = "blogantinos.com"
 html_selector = "main"
 base_directory = "output"
 
