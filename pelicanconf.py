@@ -1,6 +1,6 @@
 AUTHOR = 'Author'
 SITENAME = 'blogantinos'
-SITEURL = 'http://127.0.0.1:8000/'
+SITEURL = 'http://127.0.0.1:8000'
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = 'en'
 
