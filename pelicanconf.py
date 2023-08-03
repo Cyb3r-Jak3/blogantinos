@@ -1,7 +1,7 @@
 AUTHOR = 'Author'
-SITENAME = 'Konstantinos Tsoumas'
-SITEURL = 'blogantinos.com'
-TIMEZONE = 'Europe/Amsterdam'
+SITENAME = 'blogantinos'
+SITEURL = 'http://127.0.0.1:8000/'
+TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = 'en'
 
 SUBTITLE = ' '
@@ -42,7 +42,7 @@ PATH = 'content'
 THEME = 'themes/Papyrus'
 THEME_STATIC_PATHS = ['static']
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['readtime', 'search', 'neighbors', 'pelican-toc']
+PLUGINS = ['search', 'neighbors', 'pelican-toc'] #'readtime'
 STATIC_PATHS = [
     'images',
     'images/favicon.ico',
